@@ -12,7 +12,7 @@
 
 <!-- List your tests here, with screenshots/videos if applicable, or write "N/A" and explain why -->
 
-## Reminder checklist
+## Reminder Checklist
 
 - [ ] Lint
 - [ ] Automated tests
